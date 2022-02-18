@@ -1,0 +1,35 @@
+[{
+    "_id": {
+        "$oid": "61e70d05647dc3453a82cd91"
+    },
+    "title": "ดาวเรือง (Marigold)",
+    "content": "<p>เนื้อหา 555 postman Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>",
+    "author": "sarin",
+    "slug": "install-postman",
+    "photos": [
+        "https://cdn.discordapp.com/attachments/823174202156384286/944094831653834832/unknown.png",
+        "https://cdn.discordapp.com/attachments/823174202156384286/944094859319472129/unknown.png",
+        "https://cdn.discordapp.com/attachments/823174202156384286/944094875073269770/unknown.png",
+    ],
+    "tags": [
+        "Marigold",
+        "Petal",
+        "Red marigold",
+        "Yellow marigold ",
+        "Orange marigold",
+        "สีแดง",
+        "สีเหลือง",
+        "สีส้ม",
+        "ดอกดาวเรือง",
+        "ดาวเรือง",
+        "ไม้ดอก",
+        "ไม้ประดับ"
+    ],
+    "createdAt": {
+        "$date": "2022-01-18T18:55:01.431Z"
+    },
+    "updatedAt": {
+        "$date": "2022-02-17T03:31:46.757Z"
+    },
+    "__v": 0
+}, ]

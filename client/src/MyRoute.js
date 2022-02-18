@@ -5,14 +5,16 @@ import SingleComponent from "./components/SingleComponent"
 import EditComponent from "./components/EditComponent"
 import LoginComponent from "./components/LoginComponent"
 
+import AdminRoute from "./AdminRoute"
+
 const MyRoute=()=>{
     return(
         <BrowserRouter>
         <switch>
             <Route path="/" exact component={App}/>
-            <Route path="/create" exact component={FormCompoment}/>
+            <AdminRoute path="/create" exact component={FormCompoment}/>
             <Route path="/blog/:slug" exact component={SingleComponent}/>
-            <Route path="/blog/edit/:slug" exact component={EditComponent}/>
+            <AdminRoute path="/blog/edit/:slug" exact component={EditComponent}/>
             <Route path="/login" exact component={LoginComponent}/>
         </switch>
         </BrowserRouter>

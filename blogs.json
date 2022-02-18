@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "61e70d05647dc3453a82cd91"
+  },
+  "title": "install postman",
+  "content": "<p>เนื้อหา 555 postman Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>",
+  "author": "sarin",
+  "slug": "install-postman",
+  "createdAt": {
+    "$date": "2022-01-18T18:55:01.431Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-17T03:31:46.757Z"
+  },
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "620d732b11dd896e4b44898a"
+  },
+  "title": "nodejs basic",
+  "content": "<p><u>nodejs </u>เบื้องต้นและขั้นสูง</p>",
+  "author": "ฟฟ",
+  "slug": "nodejs-basic",
+  "createdAt": {
+    "$date": "2022-02-16T21:56:59.859Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-17T03:53:50.208Z"
+  },
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "620e9272ebcf104316b0b585"
+  },
+  "title": "ดาวเรือง (Marigold)",
+  "content": "<p><strong>ลักษณะทั่วไป-</strong> ดาวเรือง (ชื่อวิทยาศาสตร์: Tagetes erecta L.) มีชื่อตามภาษาท้องถิ่นว่า คำปู้จู้ (ภาคเหนือ) นิยมปลูกตัดดอก เป็นดาวเรืองในกลุ่ม African หรือ American marigold เป็นพันธุ์ดอกใหญ่ พันธุ์ที่ใช้เป็นการค้าในประเทศไทยได้แก่พันธุ์ซอเวอริน (soverign) นอกจากนี้ยังมีสายพันธุ์ใหม่ ๆ ที่นำเข้ามาได้แก่ พันธุ์จาเมกาและอื่น ๆ อีกหลายพันธุ์ ดาวเรืองขยายพันธุ์โดยใช้เมล็ดเป็นหลัก อาจใช้การปักชำได้ แต่ต้นที่ได้จะให้ดอกที่มีขนาดเล็กกว่า\"</p><p><br></p><p><strong>สรรพคุณและประโยชน์-</strong> ดอกดาวเรืองใช้ร้อยพวงมาลัยชนิดต่าง ๆ เพื่อการบูชาพระและสิ่งศักดิ์สิทธิ์ตามความเชื่อ กลีบดอกดาวเรืองมีสารสีเหลืองที่เรียกว่าแซนโทฟิลล์สูง จึงมีการปลูกเพื่อเก็บดอกเพื่อเอาไปเป็นส่วนผสมของอาหารไก่ไข่เพื่อให้ไข่แดงมีสีแดงสวยทดแทนสารสังเคราะห์</p><p><br></p><p>ดาวเรืองสะสมสารหนูได้ 42% ในใบจึงมีประโยชน์ในการฟื้นฟูดินที่ปนเปื้อนสารหนู มีกลิ่นฉุนและสามารถไล่ยุงได้รวมถึงสามารถไล่ส่งมีชีวิตชนิดอื่นๆได้อีกด้วย</p><p><br></p><p>ดอกดาวเรืองที่ไม่มีคุณภาพก็สามรถนำมาทำเป็นซากพืชซากสัตว์ได้อีกด้วยซึ่งในลักษณะนี้จะมีประโยชน์มากกว่าการนำดอกดาวเรืองที่ไม่มีคุณภาพไปใช้ในการทำสิ่งอื่นๆ เพราะรูปลักษณ์นั้นจะดูไม่สวย อีกทั้งกลิ่น รวมถึงลักษณะทางกายภาพนั้นจะแย่กว่าดอกอื่น ซึ่งสมารถจำแนกได้จากลักษณะของดอก ซึ่งจะอ้วนอวบกว่าดอกอื่นๆจนเห็นได้ชัด มีการช้ำที่ดอก ดอกไม่หนา ไม่มีกลิ่น และ สีเหลืองไม่นวลตา</p>",
+  "author": "admin",
+  "slug": "(marigold)",
+  "createdAt": {
+    "$date": "2022-02-17T18:22:42.394Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-17T18:22:42.394Z"
+  },
+  "__v": 0
+}]

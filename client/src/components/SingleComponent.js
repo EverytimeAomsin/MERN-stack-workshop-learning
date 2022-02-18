@@ -2,6 +2,7 @@ import axios from 'axios'
 import React from 'react'
 import { useEffect,useState } from 'react'
 import NavbarComponent from './NavbarComponent'
+import renderHTML from 'react-render-html';
 
 const SingleComponent = (props) => {
     const [blog,setBlog] = useState('')
@@ -18,7 +19,7 @@ const SingleComponent = (props) => {
       {blog && 
       <div>
       <h1>{blog.title}</h1>
-      <p>{blog.content}</p>
+      <p>{renderHTML(blog.content)}</p>
       <p className='text-muted'>ผู้เขียน:{blog.author} , เผยแพร่ : {new Date(blog.createdAt).toLocaleString()}</p>
       </div>}
     </div>
